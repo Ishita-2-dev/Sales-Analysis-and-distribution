@@ -31,4 +31,4 @@ Identifying trends and patterns
 Distribution plots
 Bar charts
 Line graphs
-Correlation heatmaps
+
