@@ -1,4 +1,4 @@
-# Sales-Analysis-and-distribution
+# Salary-Analysis-and-distribution
 📊 Sales Analysis & Distribution Project
 
 A data analysis project focused on exploring, cleaning, and visualizing sales data to uncover trends, patterns, and insights that support better business decision-making.
